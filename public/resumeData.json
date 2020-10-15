@@ -201,6 +201,13 @@
         "image":"passwordgenerator.PNG",
         "deployed_app":"https://mhans19.github.io/password-generator/",
         "repo": "https://github.com/mhans19/password-generator"
+      },
+      {
+        "title":"Easy Peasy Recipeasy",
+        "category":"MERN",
+        "image":"recipeasy.PNG",
+        "deployed_app":"TEMP",
+        "repo": "https://github.com/garves44/project3"
       }
     ]
   },
