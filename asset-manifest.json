@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hansen-Portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/Hansen-Portfolio/static/js/main.dc5485e4.chunk.js",
+    "main.js.map": "/Hansen-Portfolio/static/js/main.dc5485e4.chunk.js.map",
+    "runtime-main.js": "/Hansen-Portfolio/static/js/runtime-main.9e069533.js",
+    "runtime-main.js.map": "/Hansen-Portfolio/static/js/runtime-main.9e069533.js.map",
+    "static/js/2.c2525029.chunk.js": "/Hansen-Portfolio/static/js/2.c2525029.chunk.js",
+    "static/js/2.c2525029.chunk.js.map": "/Hansen-Portfolio/static/js/2.c2525029.chunk.js.map",
+    "index.html": "/Hansen-Portfolio/index.html",
+    "precache-manifest.a8329e028490eb239e40d9b4e8ee1906.js": "/Hansen-Portfolio/precache-manifest.a8329e028490eb239e40d9b4e8ee1906.js",
+    "service-worker.js": "/Hansen-Portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Hansen-Portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.c2525029.chunk.js.LICENSE.txt": "/Hansen-Portfolio/static/js/2.c2525029.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e069533.js",
+    "static/js/2.c2525029.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.dc5485e4.chunk.js"
+  ]
+}

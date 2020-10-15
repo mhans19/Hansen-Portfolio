@@ -1,0 +1,226 @@
+{
+  "main": {
+    "name":"Morgan Hansen",
+    "occupation":"Data Scientist & Full Stack Web Developer",
+    "description":"I have strong skills and interests in statistics, research methods, and web development.",
+    "image":"profilepic.jpg",
+    "bio":"I am a 27 year old Idaho native, Utah implant. I am a newlywed and dog-mom to my mini wiener dog, Romy. I am a complete homebody and introvert that loves reading, creating, and occasionally binge-watching the latest and greatest TV shows. In 2015, I graduated from Boise State University with dual Bachelor of Science degrees in Psychology and Criminal Justice. In 2016, I moved to Utah and in 2018, earned my Master of Science degree in Quantitative Psychology from Utah State University. Shortly after graduating, I began working for the Utah Department Department of Human Services as a Research Consultant for the Division of Juvenile Justice Services. In 2020, I chose to develop my deep passion for data science and programming further by becaming a full-stack web developer.",
+    "contactmessage":"I would love the opportunity to collaborate with you. Please leave me a message and I will be in touch with you shortly.",
+    "email": "mdhansen19@gmail.com",
+    "phone": "208-807-4913",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Riverton",
+      "state":"Utah",
+      "zip": "84065"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1-qGXj4XT_lxswNiSimgvjou8XgvxBTxx/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/morgan.kawamura/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/morgan-hansen-47235872/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mhans19?tab=repositories",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are a few of my working interests.",
+    "education":[
+      {
+        "school":"University of Utah",
+        "degree":"Full-Stack Web Development",
+        "graduated":"October 2020",
+        "description":"University of Utah Coding Bootcamp"
+      },
+      {
+        "school":"Utah State University",
+        "degree":"Master of Science - Quantitative Psychology",
+        "graduated":"December 2018",
+        "description":"Degree Honors: Summa Cum Laude"
+      },
+      {
+        "school":"Boise State University",
+        "degree":"Bachelor of Science - Psychology & Criminal Justice",
+        "graduated":"May 2015",
+        "description":"Degree Honors: Summa Cum Laude"
+      }
+    ],
+    "work":[
+      {
+        "company":"Utah Department of Human Services",
+        "title":"Juvenile Justice Services - Research Consultant",
+        "years":"October 2018 - Present",
+        "description":"Consulting on all research or data related projects for the division. Conducting statistical analyses and developing reports. Working closely with allied agencies, including the Governor’s Office of Budget and Design and Utah Juvenile Court to manage data systems and input, collaborate on joint research projects, and measure performance outcomes across the State. Supporting division grants through research and statistical analysis. Modeling and performing predictive analyses for juvenile risk assessments. Advancing the data collecting, analyzing, and reporting methodologies of the division to include interactive reports."
+      },
+      {
+        "company":"Utah State University",
+        "title":"Graduate Research & Teaching Assistant",
+        "years":"Auguest 2016 - December 2018",
+        "description":"Research Assistantships: Prevention Science Laboratory (Fall 2016 – December 2018) and Statistical Consulting Studio (Summer 2018 – December 2018). Teaching Assistantships: Psychological Statistics (Instructor - Spring 2018),  General Psychology (Developed - Summer 2017), Health Psychology (Developed - Summer 2017), Research Methods (Assisted - Fall 2017), and General Psychology (Fall 2016 & Spring 2017)."
+      },
+      {
+        "company":"U.S. Department of Justice",
+        "title":"U.S. Attorney's Office - Clerk",
+        "years":"July 2012 - August 2016",
+        "description":"Coordinated the Central Violations Bureau citations for the District of Idaho and was responsible for filing motions and proposed orders with the Courts, worked closely with federal agencies, and maintained arrest warrants, payment agreements, and delinquent cases. Assisted the First Assistant U.S. Attorney with his legal work that included filing motions with the courts in both civil and criminal divisions. Assisted attorneys, legal assistants, and paralegals with projects including scanning, organizing, and redacting discovery and case materials. Assisted with administrative duties including arranging travel, paying invoices, and upholding security procedures for confidential material including Grand Jury and high-profile cases. Performed receptionist-related duties for the last year where I answered and routed incoming calls, acted as the face of the office for guests arriving, and upheld all security procedures related to incoming materials for the Department of Justice, all while upholding my regular duties stated above."
+      },
+      {
+        "company":"Bingham County Courthouse",
+        "title":"Intern - Magistrate & District Courts",
+        "years":"August 2010 - May 2011",
+        "description":"Performed office deliveries, sorted and distributed mail, and worked with the county computer system to docket case pleadings. Filed and maintained criminal, civil, juvenile, and specialty case files including drug court, mental health court, and family adoption files. Imputed information into the iStars system for mental, misdemeanor, felony and juvenile drug courts. Assisted Magistrate and District Court clerks and judges with various duties and miscellaneous requests."
+      }
+    ],
+    "skills":[
+      {
+        "name":"R & R-Studio Development",
+        "level":"100%"
+      },
+      {
+        "name":"Juvenile & Emerging Adult Delinquency",
+        "level":"90%"
+      },
+      {
+        "name":"Front-End Web Development",
+        "level":"75%"
+      },
+      {
+        "name":"Back-End Web Development",
+        "level":"85%"
+      },
+      {
+        "name":"Quantitative Methods",
+        "level":"70%"
+      },
+      {
+        "name":"Multilingual Programming Languages",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Budget Tracker",
+        "category":"Progressive Web Applications (PWA)",
+        "image":"budgettracker.PNG",
+        "deployed_app":"https://ancient-dawn-71078.herokuapp.com/",
+        "repo": "https://github.com/mhans19/budget-tracker"
+      },
+      {
+        "title":"Social Network API",
+        "category":"NoSQL",
+        "image":"socialnetworkapi.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=Gx8wNyqoYQw&feature=youtu.be",
+        "repo": "https://github.com/mhans19/social-network-api"
+      },
+      {
+        "title":"Timed Out",
+        "category":"Full-Stack Application",
+        "image":"timedout.PNG",
+        "deployed_app":"https://protected-caverns-67219.herokuapp.com/",
+        "repo": "https://github.com/mhans19/timed-out"
+      },
+      {
+        "title":"Tech-Blog: codeBloggers",
+        "category":"Model-View-Controller (MVC)",
+        "image":"codebloggers.PNG",
+        "deployed_app":"https://infinite-springs-68982.herokuapp.com/",
+        "repo": "https://github.com/mhans19/tech-blog"
+      },
+      {
+        "title":"E-commerce Back End",
+        "category":"Object-Relational Mapping (ORM)",
+        "image":"ecommerce.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=jRUwMD42iCY&feature=youtu.be",
+        "repo": "https://github.com/mhans19/e-commerce"
+      },
+      {
+        "title":"Employee Tracker",
+        "category":"SQL",
+        "image":"employeetracker.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=3EbHnpkqybE&feature=youtu.be",
+        "repo": "https://github.com/mhans19/employee-tracker"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"Server-Side APIs APIs",
+        "image":"weatherdashboard.PNG",
+        "deployed_app":"https://github.com/mhans19/weather-dashboard",
+        "repo": "https://mhans19.github.io/weather-dashboard/"
+      },
+      {
+        "title":"Workday Scheduler",
+        "category":"Third-Party APIs",
+        "image":"workdayscheduler.PNG",
+        "deployed_app":"https://mhans19.github.io/workday-scheduler/",
+        "repo": "https://github.com/mhans19/workday-scheduler"
+      },
+      {
+        "title":"Coding Quiz",
+        "category":"Web APIs",
+        "image":"codingquiz.PNG",
+        "deployed_app":"https://mhans19.github.io/coding-quiz//",
+        "repo": "https://github.com/mhans19/coding-quiz"
+      },
+      {
+        "title":"Password-Generator",
+        "category":"HTML, CSS, & JavaScript",
+        "image":"passwordgenerator.PNG",
+        "deployed_app":"https://mhans19.github.io/password-generator/",
+        "repo": "https://github.com/mhans19/password-generator"
+      },
+      {
+        "title":"Team Profile Generator",
+        "category":"Object-Oriented Programming (OOP)",
+        "image":"teambuilder.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=nQ213r0OWlA&feature=yout",
+        "repo": "https://github.com/mhans19/team-profile"
+      },
+      {
+        "title":"Note Taker",
+        "category":"Express.js",
+        "image":"notetaker.PNG",
+        "deployed_app":"http://hidden-badlands-64622.herokuapp.com/",
+        "repo": "https://github.com/mhans19/note-taker"
+      },
+      {
+        "title":"README Generator",
+        "category":"Node.js",
+        "image":"readmegenerator.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=yWTvnqWZeL4&feature=youtu.be",
+        "repo": "https://github.com/mhans19/readme-generator"
+      },
+      {
+        "title":"Easy Peasy Recipeasy",
+        "category":"MERN",
+        "image":"recipeasy.PNG",
+        "deployed_app":"TEMP",
+        "repo": "https://github.com/garves44/project3"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
