@@ -154,27 +154,6 @@
         "repo": "https://github.com/mhans19/employee-tracker"
       },
       {
-        "title":"README Generator",
-        "category":"Node.js",
-        "image":"readmegenerator.PNG",
-        "deployed_app":"https://www.youtube.com/watch?v=yWTvnqWZeL4&feature=youtu.be",
-        "repo": "https://github.com/mhans19/readme-generator"
-      },
-      {
-        "title":"Note Taker",
-        "category":"Express.js",
-        "image":"notetaker.PNG",
-        "deployed_app":"http://hidden-badlands-64622.herokuapp.com/",
-        "repo": "https://github.com/mhans19/note-taker"
-      },
-      {
-        "title":"Team Profile Generator",
-        "category":"Object-Oriented Programming (OOP)",
-        "image":"teambuilder.PNG",
-        "deployed_app":"https://www.youtube.com/watch?v=nQ213r0OWlA&feature=yout",
-        "repo": "https://github.com/mhans19/team-profile"
-      },
-      {
         "title":"Weather Dashboard",
         "category":"Server-Side APIs APIs",
         "image":"weatherdashboard.PNG",
@@ -201,6 +180,27 @@
         "image":"passwordgenerator.PNG",
         "deployed_app":"https://mhans19.github.io/password-generator/",
         "repo": "https://github.com/mhans19/password-generator"
+      },
+      {
+        "title":"Team Profile Generator",
+        "category":"Object-Oriented Programming (OOP)",
+        "image":"teambuilder.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=nQ213r0OWlA&feature=yout",
+        "repo": "https://github.com/mhans19/team-profile"
+      },
+      {
+        "title":"Note Taker",
+        "category":"Express.js",
+        "image":"notetaker.PNG",
+        "deployed_app":"http://hidden-badlands-64622.herokuapp.com/",
+        "repo": "https://github.com/mhans19/note-taker"
+      },
+      {
+        "title":"README Generator",
+        "category":"Node.js",
+        "image":"readmegenerator.PNG",
+        "deployed_app":"https://www.youtube.com/watch?v=yWTvnqWZeL4&feature=youtu.be",
+        "repo": "https://github.com/mhans19/readme-generator"
       },
       {
         "title":"Easy Peasy Recipeasy",
